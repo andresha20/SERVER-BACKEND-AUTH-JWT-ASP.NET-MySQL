@@ -10,7 +10,7 @@ This project is a simple backend built on top of ASP.NET Web Core to handle CRUD
   <li>JWT</li>
   <li>Authentication</li>
   <li>CORS</li>
-  <li>SQL Server</li>
+  <li>MySQL</li>
   <li>Swagger</li>
   <li>Entity Framework Tools</li>
 
