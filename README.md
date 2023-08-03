@@ -1,5 +1,7 @@
 # SERVER-BACKEND-AUTH-JWT-ASP.NET-MySQL Notes Application
-This project is a simple backend built on top of ASP.NET Web Core to handle CRUD operations using MySQL.
+This project is a simple backend built on top of ASP.NET API Core to handle CRUD operations using MySQL.
+
+Frontend for this application: <a href="https://github.com/andresha20/CLIENT-FRONTEND-REACT-Typescript-authentication" target="_blank">HERE.</a>
 
 # DEVELOPMENT DATA:
 1. This is the backend built with ASP.NET and MySQL for an auth authentication. Resources used:
